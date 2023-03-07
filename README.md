@@ -1,1 +1,1 @@
-My first readme
+I am still learning software engineering 
